@@ -1,0 +1,33 @@
+{
+    "name": "wfphpnlp/sentistrength",
+    "description": "PHP library for Indonesian text classification using the SentiStrength approach.",
+    "type": "library",
+    "keywords": [
+        "SentiSrength",
+        "php SentiSrength",
+        "klasifikasi teks",
+        "bahasa indonesia",
+        "klasifikasi SentiSrength"
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WillyFaq",
+            "email": "willyfaqurokhim@gmail.com"
+        }
+    ],
+    "require": {},
+    "scripts": {
+       "test": [
+           "phpunit --testdox"
+       ]
+    },
+    "autoload": {
+        "psr-4": {
+            "wfphpnlp\\": "src/"
+        }
+    }
+}
