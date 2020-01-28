@@ -1,4 +1,9 @@
 # PHP sentistrength
+
+[![Build Status](https://travis-ci.org/WillyFaq/sentistrength.svg?branch=master)](https://travis-ci.org/WillyFaq/sentistrength)
+[![GitHub](https://img.shields.io/github/license/WillyFaq/sentistrength)]()
+[![Packagist Version](https://img.shields.io/packagist/v/wfphpnlp/sentistrength)](https://packagist.org/packages/wfphpnlp/sentistrength)
+
 Library PHP untuk klasifikasi teks menjadi klasifikasi positif, negatif dan netral pada Bahasa Indonesia menggunakan metode SentiSrength.
 
 ## Cara Install
